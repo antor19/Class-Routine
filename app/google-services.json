@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12574840478",
+    "project_id": "antor-1a1cc",
+    "storage_bucket": "antor-1a1cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12574840478:android:3efa7bb1d735822def0d8f",
+        "android_client_info": {
+          "package_name": "com.example.L1T3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12574840478-8ki13048rhhnanrlvk6e4jbga68d04lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.L1T3",
+            "certificate_hash": "4a7e5d067b22c5d8af8d7776cbafa57ec362fb5c"
+          }
+        },
+        {
+          "client_id": "12574840478-oco195v6ij0h72mqa9fn4abv1o068c0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5b9SL8mbgCT571TEU2YoRgC7M3HE7IjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12574840478-oco195v6ij0h72mqa9fn4abv1o068c0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

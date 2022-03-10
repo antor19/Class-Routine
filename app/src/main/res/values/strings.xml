@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">L1-T3(PC-B)</string>
+    <string name="Sat">Saturday</string>
+    <string name="Sun">Sunday</string>
+    <string name="Mon">Monday</string>
+    <string name="Tue">Tuesday</string>
+    <string name="Wed">Wednesday</string>
+    <string name="Thu">Thursday</string>
+    <string name="Fri">Friday</string>
+
+
+    <string name="sat11">
+         Class No:1\n
+        Subject: Data Structure Lab\n
+        Time: 08.30am-10.00am\n
+        Class No:2\n
+        Subject:Software Project I\n
+        Time: 02:30pm-04.00pm\n
+        Class No:3\n
+        Subject:Data Structure\n
+        Time: 04:00pm-05.30pm\n
+
+    </string>
+    <string name="sun22">
+        [OffDay For Sunday]
+
+    </string>
+    <string name="mon33">
+        Class No:1\n
+        Subject: Art Of Living\n
+        Time: 08.30am-10.00am\n
+        Class No:2\n
+        Subject:Electrical Circuits Lab\n
+        Time: 11:30pm-02.30pm\n
+
+    </string>
+
+    <string name="tue44">
+        Class No:1\n
+        Subject:Electrical Circuits\n
+        Time: 10.00am-11.30am\n
+         Class No:2\n
+        Subject: Discrete Mathematics\n
+        Time: 11.30am-01.00am\n
+    </string>
+
+    <string name="wed55">
+        Class No:1\n
+        Subject: Discrete Mathematics\n
+        Time: 08.30am-10.00am\n
+        Class No:2\n
+        Subject:Art Of Living\n
+        Time: 11:30pm-01.00pm\n
+    </string>
+
+    <string name="thu66">
+        Class No:1\n
+        Subject: Data Structure\n
+        Time: 01.00am-02.30am\n
+
+    </string>
+    <string name="fri77">
+        [OffDay For Friday]
+
+    </string>
+    <string name="todo">TODO</string>
+
+    <string name="string_todo" />
+</resources>

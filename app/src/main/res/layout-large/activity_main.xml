@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+
+    android:background="#4DBDD8"
+    android:padding="30dp"
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:layout_width="540dp"
+        android:layout_height="248dp"
+
+        android:src="@drawable/diu">
+
+
+    </ImageView>
+
+    <Button
+        android:id="@+id/sat1"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:padding="7dp"
+        android:text="@string/Sat"
+        android:textSize="35sp"
+        android:textStyle="bold">
+
+    </Button>
+
+    <Button
+        android:id="@+id/sun2"
+        android:padding="7dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/Sun"
+        android:textStyle="bold"
+        android:textSize="35sp">
+
+    </Button>
+    <Button
+        android:id="@+id/Mon3"
+        android:padding="7dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/Mon"
+        android:textStyle="bold"
+        android:textSize="35sp">
+    </Button>
+    <Button
+        android:id="@+id/Tue4"
+        android:padding="7dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/Tue"
+        android:textStyle="bold"
+        android:textSize="35sp">
+
+    </Button>
+    <Button
+        android:id="@+id/Wed5"
+        android:padding="7dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/Wed"
+        android:textStyle="bold"
+        android:textSize="35sp">
+
+    </Button>
+    <Button
+        android:id="@+id/Thu6"
+        android:padding="7dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/Thu"
+        android:textStyle="bold"
+        android:textSize="35sp">
+
+    </Button>
+    <Button
+        android:id="@+id/Fri7"
+        android:padding="7dp"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/Fri"
+        android:textStyle="bold"
+        android:textSize="35sp">
+
+    </Button>
+
+
+
+
+
+
+</LinearLayout>

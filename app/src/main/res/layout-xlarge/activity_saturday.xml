@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#7BCDE1"
+    tools:context=".Saturday">
+
+
+    <ImageView
+        android:layout_width="172dp"
+        android:layout_height="163dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:contentDescription="@string/todo"
+        android:scaleType="fitXY"
+        android:src="@drawable/diu">
+
+
+    </ImageView>
+
+    <TextView
+        android:id="@+id/textid"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@color/teal_700"
+        android:gravity="center"
+        android:padding="36dp"
+        android:text="@string/sat11"
+        android:textColor="#FFFFFF"
+        android:textSize="26sp"
+        android:textStyle="bold">
+
+
+    </TextView>
+
+</LinearLayout>
